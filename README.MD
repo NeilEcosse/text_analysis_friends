@@ -42,6 +42,8 @@ Results are summarised in the file `friends_analysis` (available in R notebook a
 
 <img src = "images/report_8.png">
 
+<img src = "images/report_8a.png">
+
 <img src = "images/report_9.png">
 
 <img src = "images/report_9a.png">

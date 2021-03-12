@@ -438,9 +438,9 @@ panel.background = element_blank(), axis.line = element_line(colour = "black"))
 ```
 
 
-## ...and what if we take a mean per season?
+## Mean character sentiment per season
 
-Have I done something wrong with the way I calculated mean here?
+
 ```{r, warning = F, message = F}
 friends_words %>% 
   filter(!is.na(sentiment_value)) %>% 
