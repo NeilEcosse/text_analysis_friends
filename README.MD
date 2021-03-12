@@ -10,11 +10,20 @@ This project uses R to perform some analysis on the contents of these scripts in
 
 * An attempt to identify dated or offensive use of language
 
+<br>
+
+<br>
+
 It uses data from the `friends` package.
 
 Details on the package including the data dictionary can be found here:
 
 https://github.com/rfordatascience/tidytuesday/issues/254
+
+<br>
+
+<br>
+
 
 Results are summarised in the file `friends_analysis` (available in R notebook and HTML formats).
 
