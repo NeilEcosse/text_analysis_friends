@@ -18,13 +18,7 @@ https://github.com/rfordatascience/tidytuesday/issues/254
 
 Results are summarised in the file `friends_analysis` (available in R notebook and HTML formats).
 
-# Screenshots of the report - data preparation
 
-<img src = "images/report_1.png">
-
-<img src = "images/report_2.png">
-
-<img src = "images/report_3.png">
 
 # Screenshots of the report - visualisations
 
@@ -50,5 +44,13 @@ Results are summarised in the file `friends_analysis` (available in R notebook a
 
 <img src = "images/report_9b.png">
 
+
+# Screenshots of the report - data preparation
+
+<img src = "images/report_1.png">
+
+<img src = "images/report_2.png">
+
+<img src = "images/report_3.png">
 
 
