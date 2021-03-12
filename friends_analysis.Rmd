@@ -460,7 +460,7 @@ panel.background = element_blank(), axis.line = element_line(colour = "black")) 
   scale_x_continuous(breaks = 1:10)
 ```
 
-## Acceptable in the 90s...
+## It was acceptable in the 90s...
 
 Lots of people have noted that Friends can be pretty cringy in places when you watch it now - I'm trying a few bits of analysis to see if I can highlight anything:
 
